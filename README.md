@@ -1,6 +1,8 @@
 Este script maneja múltiples servicios y dispositivos, agrupados en diferentes categorías. Aquí está la lista completa:
 
+
 🔌 Dispositivos y Domótica
+
 
 Philips Hue – Control de luces a través del Hue Bridge.
 
