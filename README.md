@@ -39,4 +39,4 @@ Consulta de velocidades de red – Monitoreo de ancho de banda del NAS QNAP.
 ✅ Monitorización: Open Hardware Monitor, Ping, Latencia, Escaneo de Puertos
 ✅ Bot de Control: Pyrogram (Telegram Bot API)
 
-Tu script es un centro de monitoreo completo, combinando IoT, multimedia, red, clima y domótica, con control en Telegram. 🚀
+Este script es un centro de monitoreo completo, combinando IoT, multimedia, red, clima y domótica, con control en Telegram. 🚀
