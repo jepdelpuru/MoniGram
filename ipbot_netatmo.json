@@ -1,0 +1,8 @@
+{
+    "netatmo_access_token": "",
+    "netatmo_refresh_token": "",
+    "CLIENT_ID": "",
+    "CLIENT_SECRET": "",
+    "TAUTULLI_URL": "http://192.168.0.143:8181",
+    "TAUTULLI_APIKEY": ""
+}
